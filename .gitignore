@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+thorsmcptest_key.pem
 
 # Virtual environments
 .venv
